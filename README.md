@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-##  I’m Lucas Nascimento, i aim to become a web developer✨✨✨
+##  I’m Lucas Nascimento, i am to become a web developer✨✨✨
 
 
 - 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, SQL...
